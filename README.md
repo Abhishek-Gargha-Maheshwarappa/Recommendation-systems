@@ -6,8 +6,8 @@ Recommender systems are algorithms aimed at suggesting relevant items to users (
 
 ## **Traditionally, there are two methods to construct a recommender system :**
  
-1. ### **Content-based recommendation :** Content-based filtering uses item features to recommend other items similar to what the user likes, based on their previous actions or explicit feedback.
-2.  ### **Collaborative Filtering :** Collaborative filtering uses similarities between users and items simultaneously to provide recommendation for eg If A has the same opinion as a person B on an issue, A is more likely to have B's opinion on a different issue than that of a randomly chosen person.
+1. **Content-based recommendation :** Content-based filtering uses item features to recommend other items similar to what the user likes, based on their previous actions or explicit feedback.
+2. **Collaborative Filtering :** Collaborative filtering uses similarities between users and items simultaneously to provide recommendation for eg If A has the same opinion as a person B on an issue, A is more likely to have B's opinion on a different issue than that of a randomly chosen person.
 
 ## **Our Recommendation System**
 
